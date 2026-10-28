@@ -55,3 +55,4 @@ export default function Header({ theme, onToggleTheme, totalProjects = 0, comple
     </header>
   );
 }
+

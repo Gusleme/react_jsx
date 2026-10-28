@@ -86,3 +86,4 @@ export const STATUS_OPTIONS = [
   { value: 'em-andamento', label: 'Em Andamento' },
   { value: 'planejado', label: 'Planejado' }
 ];
+
